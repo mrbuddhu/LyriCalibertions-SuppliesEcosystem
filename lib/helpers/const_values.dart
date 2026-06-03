@@ -1,0 +1,5 @@
+
+
+
+const String stipePublicKey='pk_test_51T077dCKFXLK7DEHI5thFwhOuFTHGhKzwSМЗcwNsBGAkwbtYtyIb9qСgJЄс6t1iSеrQrAujX3E5WRcdw2zge0vrK0@HqufAw9E';
+const String stipeAuthKey='sk_ test_51T077dCKFXLK7DEHg5VpHvWNDg26MtJxhUHXQ9YNdzjk570jZxNQATaErQhwAemJACHECxmFWHp66j08858EpSER009LgLu4Fk';
