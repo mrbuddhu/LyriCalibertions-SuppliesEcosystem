@@ -1,6 +1,9 @@
-# lyri_calibration
+# LyriCalibertions Supplies Ecosystem
 
-A new Flutter project.
+A Flutter project for LyriCalibertions Supplies Ecosystem.
+
+## Important Notice
+**This project should not be copied.** This is a proprietary project owned by mrbuddhu and is not intended for distribution or reproduction.
 
 ## Getting Started
 
